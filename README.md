@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MikiBoiko (Miguel Montero Boiko). I am a 21 year old student currently studying CoE at UCM in Madrid.
+- 👋 Hi, I’m @MikiBoiko (Miguel Montero Boiko). I am a 21 year old developer.
 - 👀 I’m interested in UnityEngine (.NET), Python, Java, Node.js full-stack developer (React, Express and any npm package) and DB (PostgreSQL, Mongo and Oracle)
 - 🌱 I’m currently learning C++, C and AI with Python
 - 💞️ I’m looking to collaborate on any good ideas!
